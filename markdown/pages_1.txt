@@ -1,5 +1,5 @@
 ---
-Title:w6
+Title:   w7
 Date: 2022-03-30 11:00
 Category: Misc
 Tags: cd2022
@@ -29,14 +29,11 @@ w4
 [WINK]: https://40923148.github.io/cd2022_ag3/content/40923148.html
 
 [PPT]: https://docs.google.com/presentation/d/1OmtvOYHHmfGw1GtU6z9o25VLzuFiu87PU_-RFUqMWd0/edit
+課程倉儲: <a href="https://github.com/chiamingyen/cmsimfly">https://github.com/chiamingyen/cmsimfly</a>
 
-課程倉儲: <a href="https://40923148.github.io/cd2022_ag3/content/index.html">https://40923148.github.io/cd2022_ag3/content/index.html</a>
+內容管理: <a href="https://chiamingyen.github.io/cmsimfly/">https://chiamingyen.github.io/cmsimfly/</a>
 
-wink: <a href="https://40923148.github.io/cd2022_ag3/content/40923148.html">https://40923148.github.io/cd2022_ag3/content/40923148.html</a>
+課程投影片: <a href="https://chiamingyen.github.io/cmsimfly/reveal">https://chiamingyen.github.io/cmsimfly/reveal</a>
 
-課程投影片: <a href="https://docs.google.com/presentation/d/">https://docs.google.com/presentation/d/</a>
-
-
-
-
+課程網誌: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://chiamingyen.github.io/cmsimfly/blog</a>
 
