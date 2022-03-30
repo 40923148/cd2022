@@ -55,8 +55,6 @@
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
-<v t="leo.20220330170239.1"><vh>@edit Y:/tmp/cd2022/markdown/20220330.md</vh></v>
-<v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 </v>
