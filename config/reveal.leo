@@ -302,7 +302,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417161745.5">&lt;section&gt;
   &lt;h3&gt;方冠勳&lt;/h3&gt;
     &lt;p&gt;
-     
+     從w8任務裡學到許多不同的匯入方法以及學會一些編輯程式碼，
+也實際畫了幾樣零件來實行，
+但後來地模擬無法成功，
+主要是沒有例子讓我們去對應後續編排連結，
+目前僅做到建立基本場景，後續編排個完全無方向
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -323,7 +327,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417162458.1">&lt;section&gt;
   &lt;h3&gt;周育德&lt;/h3&gt;
     &lt;p&gt;
-     
+     我分配到的是NX，首先我們都先將零件畫好後，組合完成，轉成STL匯入CoppeliaSim後雖然嘗試操作前三軸但我不太熟悉怎麼操作，所以沒有弄出來，但是零件圖與組合圖均有完成。
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -337,6 +341,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417162504.1">&lt;section&gt;
   &lt;h3&gt;張智程&lt;/h3&gt;
     &lt;p&gt;
+    這次期中考題目，我被分配到使用NX繪製零件，NX是從之前就有慢慢在學習了，尺寸我是將零件轉.dwg檔，然後使用AutoCAD確定零件尺寸，這部分算是製圖部分最麻煩的地方。
      
     &lt;/p&gt;
    
