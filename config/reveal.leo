@@ -208,18 +208,27 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+&lt;h2&gt;cd2022_ag3 分組網際簡報&lt;/h1&gt;
+    &lt;h3&gt;虎科大機械設計工程系&lt;/h2&gt;
+   
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+    &lt;a href="https://github.com/40923148/cd2022_ag3"&gt;分組倉儲&lt;/a&gt; 
+    &lt;/br&gt;
+    組員:&lt;a href="https://CYC40923109.github.io/cd2022/"&gt;周玥辰&lt;/a&gt; 
+    &lt;a href="https://40923111.github.io/cd2022/"&gt;方冠勳&lt;/a&gt; 
+    &lt;a href="https://40923114.github.io/cd2022/"&gt;江亦德&lt;/a&gt; 
+     &lt;/br&gt;
+    &lt;a href="https://jason60714.github.io/cd2022/"&gt;吳圳吉&lt;/a&gt; 
+    &lt;a href="https://40923122.github.io/cd2022/"&gt;周育德&lt;/a&gt; 
+    &lt;a href="https://40923129.github.io/cd2022/]"&gt;林泰宇&lt;/a&gt; 
+     &lt;/br&gt;
+    &lt;a href="https://a40923146.github.io/cd2022/"&gt;張智程&lt;/a&gt; 
+    &lt;a href="https://40923148.github.io/cd2022/"&gt;張煒中&lt;/a&gt; 
+    
     &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;期中作業&lt;/h2&gt;
     &lt;p&gt;
         reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
     &lt;/p&gt;
