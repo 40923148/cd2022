@@ -337,7 +337,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417162500.1">&lt;section&gt;
   &lt;h3&gt;林泰宇&lt;/h3&gt;
     &lt;p&gt;
-     
+     這次我使用onshape進行繪製，因上學期已經非常上手了，所以這次繪圖的速度已經有起來了，雖然尺寸可能有些不準，但是都有抓在容許的值，不會的部分也會請教其他同學
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
