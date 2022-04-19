@@ -295,7 +295,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417161745.4">&lt;section&gt;
     &lt;h3&gt;周玥辰&lt;/h3&gt;
     &lt;p&gt;
-     
+     分配到SolveSpace，我是第一次接觸，用起來相當不熟練也不習慣，按照著教程和自己摸索，現在算是會用了，但還不完全。
+我只知道他是一個能讓我情緒波動很大的好東西，感覺用起來挺費力的，使用起來比solidworks之類的還要不方便，而它的精髓我
+想我是還沒接觸到的。
+嘗試進行組合，宣告失敗。
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
